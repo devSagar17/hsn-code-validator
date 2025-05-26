@@ -15,9 +15,9 @@ input used through given excel sheet:
 `01, 01011010, 0000`
 
 output :
-✅ HSN Code: 01 — LIVE ANIMALS  
-✅ HSN Code: 01011010 — LIVE HORSES...  
-❌ HSN Code: 0000 — HSN code not found in dataset
+Correct HSN Code: 01 — LIVE ANIMALS  
+Correct HSN Code: 01011010 — LIVE HORSES...  
+InCorrect HSN Code: 0000 — HSN code not found in dataset
 
 source:
 Excel file from: https://docs.google.com/spreadsheets/d/1UD4JAAQ6Fgeyc5a1OwBiLV2cPTAK_D2q
